@@ -27,7 +27,7 @@ const quizDB = [
         img: "img3"
     },
     {
-        question: "Q3: How many days are there in a week?",
+        question: "Q4: How many days are there in a week?",
         a: "5",
         b: "7",
         c: "9",
